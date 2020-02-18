@@ -1,0 +1,2 @@
+# ZPOCObjectEssence1
+本Demo主要介绍了自定义类的底层实现以及占用多少内存空间。
